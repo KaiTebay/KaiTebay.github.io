@@ -24,7 +24,7 @@ Depending on your [threat model](https://www.privacyguides.org/basics/threat-mod
 
 ### Acquiring Reading Material 📕
 
-- [Standard Ebooks](https://standardebooks.org/) 3 - An open source, volunteer-driven project which curates and distributes e-books in the public domain.
-- [Open Library](https://openlibrary.org/) 5 - A helpful project by the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive) which aims to create “one web page for every book ever published”.
+- [Standard Ebooks](https://standardebooks.org/) - An open source, volunteer-driven project which curates and distributes e-books in the public domain.
+- [Open Library](https://openlibrary.org/) - A helpful project by the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive) which aims to create “one web page for every book ever published”.
 
 Happy reading! 
