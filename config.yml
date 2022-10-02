@@ -1,6 +1,7 @@
 baseURL: "https://kaitebay.github.io/"
 title: "Kai Tebay"
 theme: "WonderMod"
+publishDir: "docs"
 
 # enableRobotsTXT: true
 # buildDrafts: false
