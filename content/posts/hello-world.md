@@ -1,7 +1,7 @@
 ---
 title: "Hello World"
 date: 2022-10-02T10:35:06+01:00
-draft: true
+draft: false
 ---
 
 `hello world`
