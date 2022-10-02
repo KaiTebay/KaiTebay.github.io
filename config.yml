@@ -17,12 +17,12 @@ publishDir: "docs"
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: "Kai Tebay"
-  description: "Example description"
+  description: "A website where you can find my ideas, projects, contact details, and social media accounts."
   keywords: [Blog, Portfolio]
   author: "Kai Tebay"  # author: ["Me", "You"] # multiple authors
   # images: ["<link or path of image for opengraph, twitter-cards>"]
   # DateFormat: "January 2, 2006"
-  # defaultTheme: auto # dark, light
+  defaultTheme: auto # dark, light
   # disableThemeToggle: false
 
   ShowReadingTime: true
@@ -58,15 +58,16 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Kai Tebay
-    subtitle: "Hello, world!"
+    title: "Kai Tebay"
+    # subtitle: ""
     imageUrl: "https://avatars.githubusercontent.com/u/95620167?v=4"
-    imageWidth: 300 # optional
-    imageHeight: 300 # optional
+    imageWidth: 250 # optional
+    imageHeight: 250 # optional
     imageTitle: "Kai Tebay" # optional
     buttons:
-      - name: Posts
+      - name: "Articles"
         url: posts
+      - name: "Contact"
       # - name: Tags
         # url: tags
 
@@ -75,13 +76,13 @@ params:
     # Title: "Hi there \U0001F44B"
     # Content: Welcome to my blog
 
-  # socialIcons:
-    # - name: twitter
-      # url: "https://twitter.com/"
-    # - name: stackoverflow
-      # url: "https://stackoverflow.com"
-    # - name: github
-      # url: "https://github.com/"
+  socialIcons:
+    - name: "Matrix"
+      url: "https://matrix.to/#/@kai_tebay:matrix.org"
+    - name: "GitHub"
+      url: "https://github.com/KaiTebay"
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/kai-tebay-175240237"
 
   # analytics:
     # google:
@@ -118,10 +119,14 @@ menu:
       name: "About"
       url: /about/
       weight: 10
+    - identifier: articles
+      name: "Articles"
+      url: /posts/
+      weight: 20
     - identifier: projects
       name: "Projects"
       url: /projects/
-      weight: 20
+      weight: 30
     # - identifier: tags
       # name: tags
       # url: /tags/
