@@ -5,7 +5,17 @@
     <link>https://kaitebay.github.io/</link>
     <description>Recent content on Kai Tebay</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 02 Oct 2022 10:35:06 +0100</lastBuildDate><atom:link href="https://kaitebay.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Oct 2022 23:31:28 +0100</lastBuildDate><atom:link href="https://kaitebay.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Use a Kindle Without an Amazon Account</title>
+      <link>https://kaitebay.github.io/posts/kindle-without-account/</link>
+      <pubDate>Sun, 02 Oct 2022 23:31:28 +0100</pubDate>
+      
+      <guid>https://kaitebay.github.io/posts/kindle-without-account/</guid>
+      <description>I read quite a lot—from research papers to books and articles—and, while I love the old-school combo of a book and a hot drink, found myself looking for an eReader. For me, there are two main benefits: saving space when I travel, and avoiding distractions when I read. Although there are alternatives like Kobo eReaders or the reMarkable tablet, among others, the Amazon Kindle was my first choice.
+ Depending on your threat model, you might prefer to avoid interacting with Amazon’s ecosystem.</description>
+    </item>
+    
     <item>
       <title>My Projects</title>
       <link>https://kaitebay.github.io/projects/</link>
@@ -13,16 +23,6 @@
       
       <guid>https://kaitebay.github.io/projects/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://kaitebay.github.io/posts/hello-world/</link>
-      <pubDate>Sun, 02 Oct 2022 10:35:06 +0100</pubDate>
-      
-      <guid>https://kaitebay.github.io/posts/hello-world/</guid>
-      <description>hello world
-This is a placeholder page while I work on my website!</description>
     </item>
     
     <item>
