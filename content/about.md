@@ -24,7 +24,7 @@ Alternatively,
 
 - [Donate](https://www.buymeacoffee.com/kaitebay) 💚
     - to support me for the price of a cup of coffee.
-- Use these links: [🌍](https://smile.amazon.com/ch/04-3512550) [💊](https://smile.amazon.com/ch/20-8625442) [🐕](https://smile.amazon.com/ch/36-4684978)  [👤](https://smile.amazon.com/ch/04-3091431)
+- Use these links: [🌍](https://smile.amazon.com/ch/04-3512550) [💊](https://smile.amazon.com/ch/20-8625442) [🐕](https://smile.amazon.com/ch/36-4684978) [👤](https://smile.amazon.com/ch/04-3091431)
     - to support one of my chosen charities (for free) when you buy from Amazon, or donate to them directly. [^2]
 - Read: [80,000 Hours](https://80000hours.org/) | [NewsLit](https://newslit.org/) | [Mozilla](https://blog.mozilla.org/) | [Kurzgesagt (YouTube)](https://www.youtube.com/user/Kurzgesagt)
     - to stay informed and educate others, add these to your daily scroll.
