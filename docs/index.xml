@@ -16,18 +16,6 @@
     </item>
     
     <item>
-      <title>About Me</title>
-      <link>https://kaitebay.github.io/about/</link>
-      <pubDate>Sun, 02 Oct 2022 11:55:59 +0100</pubDate>
-      
-      <guid>https://kaitebay.github.io/about/</guid>
-      <description>LinkedIn | GitHub | Research 1 |
-If you would to reach me, or would like a copy of my CV, the best way is via email.
-  BILT Journal, University of Bristol.&amp;#160;&amp;#x21a9;&amp;#xfe0e;
-   </description>
-    </item>
-    
-    <item>
       <title>Hello World</title>
       <link>https://kaitebay.github.io/posts/hello-world/</link>
       <pubDate>Sun, 02 Oct 2022 10:35:06 +0100</pubDate>
@@ -35,6 +23,18 @@ If you would to reach me, or would like a copy of my CV, the best way is via ema
       <guid>https://kaitebay.github.io/posts/hello-world/</guid>
       <description>hello world
 This is a placeholder page while I work on my website!</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://kaitebay.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaitebay.github.io/about/</guid>
+      <description>Hi,
+I&amp;rsquo;m really passionate about education, human rights, and technology. This is a website where you can find my ideas, projects, contact details, and digital presence.
+Contact  📧 Email is the best way to contact me directly.  Alternatively,
+ 💼 connect on LinkedIn; 📑 read my articles or published research; 1 🌐 see my projects and GitHub; and find me on Privacy Guides and TechLore.  Support  Donate 💚  to support me for the price of a cup of coffee.</description>
     </item>
     
   </channel>

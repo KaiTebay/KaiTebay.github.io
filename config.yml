@@ -17,7 +17,7 @@ publishDir: "docs"
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: "Kai Tebay"
-  description: "A website where you can find my ideas, projects, contact details, and social media accounts."
+  description: "A website where you can find my ideas, projects, contact details, and digital presence."
   keywords: [Blog, Portfolio]
   author: "Kai Tebay"  # author: ["Me", "You"] # multiple authors
   # images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -26,7 +26,7 @@ params:
   # disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
@@ -59,15 +59,18 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Kai Tebay"
-    # subtitle: ""
-    imageUrl: "https://avatars.githubusercontent.com/u/95620167?v=4"
+    subtitle: "Aiming for a better web 🌱"
+    imageUrl: https://avatars.githubusercontent.com/u/95620167?v=4
     imageWidth: 250 # optional
     imageHeight: 250 # optional
     imageTitle: "Kai Tebay" # optional
     buttons:
       - name: "Articles"
         url: posts
-      - name: "Contact"
+      # - name: "Contact"
+        # url: "about/#contact"
+      - name: "💚"
+        url: https://www.buymeacoffee.com/kaitebay
       # - name: Tags
         # url: tags
 
@@ -78,11 +81,11 @@ params:
 
   socialIcons:
     - name: "Matrix"
-      url: "https://matrix.to/#/@kai_tebay:matrix.org"
+      url: https://matrix.to/#/@kai_tebay:matrix.org
     - name: "GitHub"
-      url: "https://github.com/KaiTebay"
+      url: https://github.com/KaiTebay
     - name: "LinkedIn"
-      url: "https://www.linkedin.com/in/kai-tebay-175240237"
+      url: https://www.linkedin.com/in/kai-tebay-175240237
 
   # analytics:
     # google:
