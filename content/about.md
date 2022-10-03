@@ -14,7 +14,7 @@ I'm really passionate about education, human rights, and technology. This is a w
 
 Alternatively,
 - 💼 connect on [LinkedIn](https://www.linkedin.com/in/kai-tebay-175240237);
-- 📑 read my [articles](/posts) or [published research;](https://bilt.online/wp-content/uploads/2021/08/Bridging-the-Gap-between-Ethical-Holism-and-the-Animal-Liberation-Movement-Fryer-and-Tebay.pdf) [^1]
+- 📑 read my [articles](/posts) or [research;](https://bilt.online/wp-content/uploads/2021/08/Bridging-the-Gap-between-Ethical-Holism-and-the-Animal-Liberation-Movement-Fryer-and-Tebay.pdf) [^1]
 - 🌐 see my [projects](/projects) and [GitHub](https://github.com/KaiTebay);
 - and find me on [Privacy Guides](https://discuss.privacyguides.org/u/kai) and [TechLore](https://discuss.techlore.tech/u/KaiTebay).
 
