@@ -67,10 +67,10 @@ params:
     buttons:
       - name: "Articles"
         url: posts
-      # - name: "Contact"
-        # url: "about/#contact"
+      - name: "Contact"
+        url: /about/#contact
       - name: "💚"
-        url: https://www.buymeacoffee.com/kaitebay
+        url: /about/#support
       # - name: Tags
         # url: tags
 
