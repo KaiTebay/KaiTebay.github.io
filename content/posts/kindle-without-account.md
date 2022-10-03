@@ -20,7 +20,7 @@ Depending on your [threat model](https://www.privacyguides.org/basics/threat-mod
 
 - Kindle devices primarily use a file format called “[AZW](https://en.wikipedia.org/wiki/Kindle_File_Format)”, although it supports other formats (like PDF).
 - [calibre](https://calibre-ebook.com/) is popularly used to convert reading material to AZW, edit document metadata, or transfer it to an eReader.
-    You can also access the files on the local storage of your Kindle device directly, via USB.
+- You can also access the files on the local storage of your Kindle device directly, via USB.
 
 ### Acquiring Reading Material 📕
 

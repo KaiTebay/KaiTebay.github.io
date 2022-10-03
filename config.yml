@@ -58,8 +58,8 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: "Kai Tebay"
-    subtitle: "Aiming for a better web 🌱"
+    title: "Hi, I'm Kai"
+    subtitle: "🌱 - Building a better web "
     imageUrl: https://avatars.githubusercontent.com/u/95620167?v=4
     imageWidth: 250 # optional
     imageHeight: 250 # optional
