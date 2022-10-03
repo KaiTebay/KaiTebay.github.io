@@ -60,7 +60,7 @@ params:
     enabled: true # needs to be explicitly set
     title: "Hi, I'm Kai"
     subtitle: "🌱 - Building a better web "
-    imageUrl: https://avatars.githubusercontent.com/u/95620167?v=4
+    imageUrl: /Personal-Profile.jpg
     imageWidth: 250 # optional
     imageHeight: 250 # optional
     imageTitle: "Kai Tebay" # optional
