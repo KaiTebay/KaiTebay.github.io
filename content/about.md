@@ -10,7 +10,7 @@ I'm really passionate about education, human rights, and technology. This is a w
 
 # Contact
 
-- 📧 [Email](mailto:kaitebay@protonmail.com) is the best way to contact me directly. [`Public Key`](/Kai-Tebay.asc)
+- 📧 [Email](mailto:kaitebay@protonmail.com) is the best way to contact me directly. <a href="/Kai-Tebay.asc">`Public Key`</a>
 
 Alternatively,
 - 💼 connect on [LinkedIn](https://www.linkedin.com/in/kai-tebay-175240237);
