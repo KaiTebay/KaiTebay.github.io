@@ -65,8 +65,8 @@ params:
     imageHeight: 250 # optional
     imageTitle: "Kai Tebay" # optional
     buttons:
-      - name: "Articles"
-        url: posts
+      # - name: "Articles"
+        # url: posts
       - name: "Contact"
         url: /about/#contact
       - name: "💚"
