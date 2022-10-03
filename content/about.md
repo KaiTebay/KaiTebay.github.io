@@ -41,7 +41,7 @@ Donate your time:
 
 - If you like, you can donate the price of a cup of coffee, to say thanks! 😄
 
-[^2]: Support
+[^1]: Support
     - [climate change](https://www.givingwhatwecan.org/charities/clean-air-task-force) with the Clean Air Task Force, 
     - [global health and poverty](https://www.givingwhatwecan.org/charities/givewell) with GiveWell, 
     - [non-human animal welfare](https://www.givingwhatwecan.org/charities/ace-current-recommendation) with the Animal Charity Evaluators, 
