@@ -28,10 +28,9 @@ If you've found any of my online contributions helpful, you don't need to give m
 
 Donate your time:
 
-> **Seconds**: [🌍 CATF](https://smile.amazon.com/ch/04-3512550) | [💊 GiveWell](https://smile.amazon.com/ch/20-8625442) | [🐕 ACE](https://smile.amazon.com/ch/36-4684978) | [👤 EFF](https://smile.amazon.com/ch/04-3091431)
+> **Seconds**: [🌍 CATF](https://smile.amazon.com/ch/04-3512550) | [💊 GiveWell](https://smile.amazon.com/ch/20-8625442) | [🐕 ACE](https://smile.amazon.com/ch/36-4684978) | [👤 EFF](https://smile.amazon.com/ch/04-3091431) ← Who are they? [^2]
 
 - Whenever you buy from Amazon, use one of these links and Amazon will support one of my chosen charities. It's free (there's no extra cost), and I don't get a cut.
-    - You can also donate to them directly. [^2]
 
 > **Minutes**: [80,000 Hours](https://80000hours.org/) | [NewsLit](https://newslit.org/) | [Moz://a](https://blog.mozilla.org/) | [Kurzgesagt (YouTube)](https://www.youtube.com/user/Kurzgesagt)
 
@@ -43,4 +42,8 @@ Donate your time:
 
 - If you like, you can donate the price of a cup of coffee, to say thanks! 😄
 
-[^2]: Support [climate change](https://www.givingwhatwecan.org/charities/clean-air-task-force), [global health and poverty](https://www.givingwhatwecan.org/charities/givewell), [non-human animal welfare](https://www.givingwhatwecan.org/charities/ace-current-recommendation), and [digital freedoms](https://supporters.eff.org/donate/join-eff-4).
+[^2]: Support
+    - [climate change](https://www.givingwhatwecan.org/charities/clean-air-task-force) with the Clean Air Task Force, 
+    - [global health and poverty](https://www.givingwhatwecan.org/charities/givewell) with GiveWell, 
+    - [non-human animal welfare](https://www.givingwhatwecan.org/charities/ace-current-recommendation) with the Animal Charity Evaluators, 
+    - and [digital freedoms](https://supporters.eff.org/donate/join-eff-4) with the Electronic Frontier Foundation.
