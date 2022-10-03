@@ -2,6 +2,7 @@
 title: "About Me"
 # date: 2022-10-02T11:55:59+01:00
 draft: false
+showtoc: false
 ---
 
 Hi,
@@ -10,17 +11,15 @@ I'm passionate about education, human rights, and technology. This is a website 
 
 # Contact
 
-Keys: <a href="/Kai-Tebay.asc">PGP</a> | <a href="/id_ed25519.pub">SSH</a> | <a href="/fingerprint">(Fingerprint)</a>
+Keys: <a href="/Kai-Tebay.asc">`PGP`</a> | <a href="/id_ed25519.pub">`SSH`</a> | <a href="/fingerprint">`(Fingerprint)`</a>
 
 - 📧 [Email](mailto:kaitebay@protonmail.com) is the best way to contact me directly.
 
 Alternatively,
 - 💼 connect on [LinkedIn](https://www.linkedin.com/in/kai-tebay-175240237);
-- 📑 read my [articles](/posts) or [research;](https://bilt.online/wp-content/uploads/2021/08/Bridging-the-Gap-between-Ethical-Holism-and-the-Animal-Liberation-Movement-Fryer-and-Tebay.pdf) [^1]
+- 📑 read my [articles](/posts) or [research;](/projects#academic-research)
 - 🌐 view my [portfolio](/projects) and [GitHub profile](https://github.com/KaiTebay);
 - and find me on the [Privacy Guides](https://discuss.privacyguides.org/u/kai) and [TechLore](https://discuss.techlore.tech/u/KaiTebay) forums.
-
-[^1]: *BILT Journal*, University of Bristol.
 
 # Support
 
@@ -28,7 +27,7 @@ If you've found any of my online contributions helpful, you don't need to give m
 
 Donate your time:
 
-> **Seconds**: [🌍 CATF](https://smile.amazon.com/ch/04-3512550) | [💊 GiveWell](https://smile.amazon.com/ch/20-8625442) | [🐕 ACE](https://smile.amazon.com/ch/36-4684978) | [👤 EFF](https://smile.amazon.com/ch/04-3091431) ← Who are they? [^2]
+> **Seconds**: [🌍 CATF](https://smile.amazon.com/ch/04-3512550) | [💊 GiveWell](https://smile.amazon.com/ch/20-8625442) | [🐕 ACE](https://smile.amazon.com/ch/36-4684978) | [👤 EFF](https://smile.amazon.com/ch/04-3091431) ← Who are they? [^1]
 
 - Whenever you buy from Amazon, use one of these links and Amazon will support one of my chosen charities. It's free (there's no extra cost), and I don't get a cut.
 
