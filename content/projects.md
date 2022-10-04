@@ -6,11 +6,26 @@ draft: false
 
 This page is a "living" list of my projects. You can use the table of contents to navigate to different projects. 
 
+![Person standing in front of a page next to a green lock symbol](/Privacy-Guides-Banner.jpg)
+
+## Privacy Guides
+
+[Privacy Guides](https://privacyguides.org) is an open source project which provides up-to-date, evidence-based information that helps you [protect yourself online](https://www.privacyguides.org/#why-should-i-care).
+
+While I work towards the [CompTIA A+](https://www.comptia.org/certifications/a) certification, I leverage my academic background to contribute. 
+
+Generally, I aim to
+
+- review cutting-edge research, to maintain awareness of emerging technologies and best-practices;
+- review written content, to ensure the professional tone that Privacy Guides readers expect;
+- contribute ideas and technical input to internal discussions;
+- and, most importantly, advocate for digital freedoms!
+
 ![Person on a laptop and a website image above them](/Freelance-Design-Banner.png)
 
 ## Freelance Design
 
-Originally trading as "Kai Tebay Design", I started my own UX and UI design business. 
+Originally trading as "Kai Tebay Design", I started a freelance UX and UI design business. 
 
 ### Portfolio
 
