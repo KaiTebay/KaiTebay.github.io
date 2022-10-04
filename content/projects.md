@@ -6,7 +6,7 @@ draft: false
 
 This page is a "living" list of my projects. You can use the table of contents to navigate to different projects. 
 
-![Person on a laptop and a website image above them](/Web-Design-Banner.jpg)
+![Person on a laptop and a website image above them](/Freelance-Design-Banner.png)
 
 ## Freelance Design
 
@@ -34,7 +34,7 @@ Coming soon!
 
 ![Minimalist Notion dashboard with light and dark theme](/Notion-Dashboard-Showcase.jpg)
 
-[`Website`](https://adhesive-estimate-297.notion.site/Index-e8ba1efe6efa45afa2d3411b135abaaf) | <a href="/Notion-Dashboard.png">`Overview (PNG)`</a>
+<a href="/Notion-Dashboard.png">`PNG (Overview)`</a> | [Website](https://adhesive-estimate-297.notion.site/Index-e8ba1efe6efa45afa2d3411b135abaaf)
 
 > 💭 - A minimalist personal and project management dashboard, built entirely in Notion. 
 
@@ -59,18 +59,18 @@ It features
     - [Notion](https://notion.so) - collaboration and project management (experienced).
     - A variety of [open source](https://opensourcedesign.net/resources/) resources from talented people across the web.
 
-![Illustration of a person sitting on a ball with a symbol above their head](/Academic-Research-Banner.jpg)
+![Illustration of a person sitting on a ball with a symbol above their head](/Academic-Research-Banner.png)
 
 ## Academic Research
 
-> BA Philosophy, University of Bristol
+**BA Philosophy, University of Bristol**
 
 I specialized in Philosophy of Science (particularly Physics, including Quantum Mechanics and Special and General Relativity), and completed additional extended research on Neuroscience and Meditation, and the Ethics of State Surveillance.
 
 I also co-authored original research:
 
-- Fryer, J. & K. Tebay. (2021) "Bridging the Gap between Ethical Holism and the Animal Liberation Movement", *BILT Journal in Philosophy*. Bristol: University of Bristol.
-    - [Publication](https://bristol.ac.uk/bilt/student-engagement/student-research-journal/202021-student-research-journal/philosophy/)
-    - [`PDF`](https://bilt.online/wp-content/uploads/2021/08/Bridging-the-Gap-between-Ethical-Holism-and-the-Animal-Liberation-Movement-Fryer-and-Tebay.pdf)
+> Fryer, J. & K. Tebay. (2021) "Bridging the Gap between Ethical Holism and the Animal Liberation Movement", *BILT Journal in Philosophy*. Bristol: University of Bristol.
+    
+[`PDF`](https://bilt.online/wp-content/uploads/2021/08/Bridging-the-Gap-between-Ethical-Holism-and-the-Animal-Liberation-Movement-Fryer-and-Tebay.pdf) | [Publication](https://bristol.ac.uk/bilt/student-engagement/student-research-journal/202021-student-research-journal/philosophy/)
 
 During my degree, and aside from my independent research, institutional access to cutting-edge research let me access inspiring new ideas. Many of them helped to shape my values and further pursuits. Since then, I've been passionate about the aim of open education.

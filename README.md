@@ -1,9 +1,11 @@
 # About
 
-This is a repository for my personal website, using the following technologies:
+This is a repository for my personal website, using the following:
 
 - [Hugo](https://github.com/gohugoio/hugo) ([License](https://github.com/gohugoio/hugo/blob/master/LICENSE))
 - [Hugo-WonderMod](https://github.com/Wonderfall/hugo-WonderMod) ([License](https://github.com/Wonderfall/hugo-WonderMod/blob/master/LICENSE))
+- [unDraw](https://undraw.co/) ([License](https://undraw.co/license))
+- [Unsplash](https://unsplash.com/) ([License](https://unsplash.com/license))
 
 # License
 
