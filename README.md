@@ -2,6 +2,7 @@
 
 This is a repository for my personal website, using the following:
 
+- [Favicon.io](https://favicon.io/) ([License](https://creativecommons.org/licenses/by/4.0/))
 - [Hugo](https://github.com/gohugoio/hugo) ([License](https://github.com/gohugoio/hugo/blob/master/LICENSE))
 - [Hugo-WonderMod](https://github.com/Wonderfall/hugo-WonderMod) ([License](https://github.com/Wonderfall/hugo-WonderMod/blob/master/LICENSE))
 - [unDraw](https://undraw.co/) ([License](https://undraw.co/license))
