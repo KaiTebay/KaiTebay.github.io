@@ -49,7 +49,7 @@ The point is that avoiding fallacies makes it easier to make good arguments (or,
 
 ## Fruit and Vegetables
 
-Perhaps in characteristic style, I think that a vivid example might help to show why the nirvana fallacy is a particularly trick case: it can lead to common practices, like "gate-keeping", which aren't very useful for discussion.
+Perhaps in characteristic style, I think that a vivid example might help to show why the nirvana fallacy is a particularly tricky case: it can lead to common practices, like "gate-keeping", which aren't very useful for discussion.
 
 ### Average Fruit Enjoyer vs. Fruit-and-vegetable Enthusiast
 
