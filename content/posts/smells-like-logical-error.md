@@ -77,7 +77,7 @@ This thinly-veiled analogy illustrates the "gate-keeping" that all-or-nothing th
 
 ### Privacy and Security
 
-For evaluative discussions about privacy and security, this can be detrimental to progress. In some cases, like Henry's example, the nirvana fallacy occurs directly:
+For evaluative discussions about privacy and security, this can be detrimental to progress. In what follows, I'll include examples which are specific to discussions about digital privacy and security, but the same concepts apply. In some cases, like Henry's example, the nirvana fallacy occurs directly:
 
 > Proton Mail is a bad: they logged a customer's IP address[^2].
 
@@ -90,7 +90,7 @@ Let's look at what the argument asserts:
 
 The sentences in parentheses are *implicit*: I've formalized them as charitably as I can.
 
-The first part is an extremely stringent condition. Unless there's an email provider which has no flaws (and, to my knowledge, there isn't since, for example, email providers have to comply with law enforcement), then the conclusion will apply to *every email provider*. Typically, this means inconsistency (if the person uses an email provider, which is almost surely similarly imperfect).
+The first part is an extremely stringent condition. Unless there's an email provider which has no flaws (and, to my knowledge, there isn't since, for example, email providers have to comply with law enforcement), then the conclusion will apply to *every email provider*. Typically, this means inconsistency.
 
 I should note that I'm not including alternatives, like self-hosting, since this examples only assumes a stringent condition about third-party email providers.
 
@@ -102,7 +102,7 @@ Now, according to the [Principle of Charity](https://en.wikipedia.org/wiki/Princ
 
 There might be reason to say that it isn't **sound** (i.e. it's not very convincing), because the first part might not be a fair condition. However, while it follows all-or-nothing thinking, this argument at least avoids a stronger, fallacious form.
 
-This is a great example of how the nirvana fallacy can occur—particularly as a result of neglecting to specify your conclusion. I'll address this in the following section (about what we can actually *do* about this fallacy)!
+This is a great example of how the nirvana fallacy can occur—particularly as a result of neglecting to specify your conclusion. I'll address this in the following section!
 
 ## "What can I do about it?"
 
@@ -125,7 +125,7 @@ These cases can be fairly innocuous, by themselves: people are often smart enoug
 
 > "There are advanced fingerprinting scripts which hardened Firefox can't confidently resist. Firefox's Fission site-isolation is less mature than Chromium's, and has specific issues[^4]. Mozilla depends on Google for a lot of their revenue.[^5]"
 
-Similarly, we haven't *said* that "**no, hardened Firefox is *not* a private and secure web-browser", but—since we haven't specified our conclusion—raising these issues contributes to a tone which supports that implication.
+Similarly, we haven't *said* that "**no**, hardened Firefox is *not* a private and secure web-browser", but—since we haven't specified our conclusion—raising these issues contributes to a tone which supports that implication.
 
 To clarify our meaning, we don't even need to address them individually. If we're aiming to raise all of these points as something for the person to consider, then we can just say "this isn't a "yes" or "no" answer, but these might be important things to consider". Accidental fallacy avoided.
 
