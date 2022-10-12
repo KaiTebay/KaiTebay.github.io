@@ -57,7 +57,7 @@ You're something of an enthusiast for fruit and vegetables. Sure, your friends a
 
 *You*, on the other hand, are passionate about fruit and vegetables: you know that they're packed with [good stuff](https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/vegetables-and-fruits/); you think that people would see a lot of benefit from a few simple changes, like eating an apple-a-day; you even keep up with the latest developments (what the hell is a ["cucamelon"?](https://noshingwiththenolands.com/what-is-a-cucamelon/))
 
-So, you find community with other fruit-and-vegetable advocates—a rich, diverse bunch of people: farmers, biologists, chefs, suppliers, consumers, policy-makers, nutritionists, an so on. Too many to count. Amongst you, the wide range of backgrounds, skill sets, and perspectives makes for great discussions:
+So, you find community with other fruit-and-vegetable advocates—a rich, diverse bunch of people: farmers, biologists, chefs, suppliers, consumers, policy-makers, nutritionists, and so on. Too many to count. Amongst you, the wide range of backgrounds, skill sets, and perspectives makes for great discussions:
 
 - "Which berries do you start your day with?"
 - "Are [aggregate fruits](https://en.wikipedia.org/wiki/Aggregate_fruit) just hype?"
@@ -79,7 +79,7 @@ This thinly-veiled analogy illustrates the "gate-keeping" that all-or-nothing th
 
 For evaluative discussions about privacy and security, this can be detrimental to progress. In what follows, I'll include examples which are specific to discussions about digital privacy and security, but the same concepts apply. In some cases, like Henry's example, the nirvana fallacy occurs directly:
 
-> Proton Mail is a bad: they logged a customer's IP address[^2].
+> Proton Mail is a bad email provider: they logged a customer's IP address[^2].
 
 Let's look at what the argument asserts:
 
@@ -90,7 +90,7 @@ Let's look at what the argument asserts:
 
 The sentences in parentheses are *implicit*: I've formalized them as charitably as I can.
 
-The first part is an extremely stringent condition. Unless there's an email provider which has no flaws (and, to my knowledge, there isn't since, for example, email providers have to comply with law enforcement), then the conclusion will apply to *every email provider*. Typically, this means inconsistency.
+The first part is an extremely stringent condition. Unless there's an email provider which has **no flaws** (and, to my knowledge, there isn't since, for example, email providers have to comply with law enforcement), then the conclusion will apply to *every email provider*. Typically, this means inconsistency.
 
 I should note that I'm not including alternatives, like self-hosting, since this examples only assumes a stringent condition about third-party email providers.
 
