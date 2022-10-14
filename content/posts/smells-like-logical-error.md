@@ -92,7 +92,7 @@ The sentences in parentheses are *implicit*: I've formalized them as charitably 
 
 The first part is an extremely stringent condition. Unless there's an email provider which has **no flaws** (and, to my knowledge, there isn't since, for example, email providers have to comply with law enforcement), then the conclusion will apply to *every email provider*. Typically, this means inconsistency.
 
-I should note that I'm not including alternatives, like self-hosting, since this examples only assumes a stringent condition about third-party email providers.
+I should note that I'm not including alternatives, like self-hosting, since this example only assumes a stringent condition about third-party email providers.
 
 Now, according to the [Principle of Charity](https://en.wikipedia.org/wiki/Principle_of_charity), let's spell out the best version of the example argument:
 
