@@ -9,21 +9,26 @@ Hi,
 
 I'm passionate about education, human rights, and technology. This is a website where you can find my ideas, projects, contact details, and digital presence.
 
+- 📑 [Articles](/posts)
+- 🏛️ [Research](/projects#academic-research)
+- 🌐 [Projects](/projects)
+
 # Contact
 
 Keys: <a href="/Kai-Tebay.asc">`PGP`</a> | <a href="/id_ed25519.pub">`SSH`</a> | <a href="/fingerprint">`(Fingerprint)`</a>
 
 - 📧 [Email](mailto:kaitebay@protonmail.com) is the best way to contact me directly.
 
-Alternatively,
-- 💼 connect on [LinkedIn](https://www.linkedin.com/in/kai-tebay-175240237);
-- 📑 read my [articles](/posts) or [research;](/projects#academic-research)
-- 🌐 view my [portfolio](/projects) and [GitHub profile](https://github.com/KaiTebay);
-- and find me on the [Privacy Guides](https://discuss.privacyguides.org/u/kai) and [TechLore](https://discuss.techlore.tech/u/KaiTebay) forums.
+Social media:
+- 💼 [LinkedIn](https://www.linkedin.com/in/kai-tebay-175240237)
+- 🗨️ [Mastodon](https://indieweb.social/web/@kaitebay)
+- 💻 [GitHub](https://github.com/KaiTebay)
+
+and find me on the [Privacy Guides](https://discuss.privacyguides.org/u/kai) forums.
 
 # Support
 
-If you've found any of my online contributions helpful, you don't need to give me money: there are a few things I truly appreciate.
+If you've found any of my online contributions helpful, there are a few things I truly appreciate.
 
 Donate your time:
 
@@ -34,6 +39,10 @@ Donate your time:
 > **Minutes**: [80,000 Hours](https://80000hours.org/) | [NewsLit](https://newslit.org/) | [Moz://a](https://blog.mozilla.org/) | [Kurzgesagt (YouTube)](https://www.youtube.com/user/Kurzgesagt)
 
 - Consider adding these to your daily scroll to stay informed and educate others. 
+
+> **Hours**: [The Social Dilemma](https://www.thesocialdilemma.com/)
+
+- If it's available to you, I recommend watching this.
 
 ---
 

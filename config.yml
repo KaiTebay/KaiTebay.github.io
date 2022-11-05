@@ -80,10 +80,12 @@ params:
     # Content: Welcome to my blog
 
   socialIcons:
-    - name: "Matrix"
-      url: https://matrix.to/#/@kai_tebay:matrix.org
     - name: "GitHub"
       url: https://github.com/KaiTebay
+    - name: "Matrix"
+      url: https://matrix.to/#/@kai_tebay:matrix.org
+    - name: "Mastodon"
+      url: https://indieweb.social/web/@kaitebay
     - name: "LinkedIn"
       url: https://www.linkedin.com/in/kai-tebay-175240237
 

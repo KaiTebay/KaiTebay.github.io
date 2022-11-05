@@ -12,7 +12,7 @@ This page is a "living" list of my projects. You can use the table of contents t
 
 [Privacy Guides](https://privacyguides.org) is an open source project which provides up-to-date, evidence-based information that helps you [protect yourself online](https://www.privacyguides.org/#why-should-i-care).
 
-While I work towards the [CompTIA A+](https://www.comptia.org/certifications/a) certification, I leverage my academic background to contribute. 
+I'm a member of the [Privacy Guides team](https://www.privacyguides.org/about/#our-team).
 
 Generally, I aim to
 
