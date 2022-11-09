@@ -6,7 +6,7 @@ draft: false
 
 This page is a "living" list of my projects. You can use the table of contents to navigate to different projects. 
 
-![Person standing in front of a page next to a green lock symbol](/Privacy-Guides-Banner.jpg)
+![A wide illustrated banner which depicts a person standing in front of a floating page of text, next to a green lock symbol.](/Privacy-Guides-Banner.jpg)
 
 ## Privacy Guides
 
@@ -21,7 +21,7 @@ Generally, I aim to
 - contribute ideas and technical input to internal discussions;
 - and, most importantly, advocate for digital freedoms!
 
-![Person on a laptop and a website image above them](/Freelance-Design-Banner.png)
+![A wide illustrated banner which depicts a person sat down and using a laptop. The basic features of a web-page float above them.](/Freelance-Design-Banner.png)
 
 ## Freelance Design
 
@@ -37,7 +37,7 @@ Coming soon!
 
 > **Lifestyle Blog Template**
 
-![Minimalist lifestyle blog template](/Lifestyle-Blog-Showcase.jpg)
+![A showcase of four web-pages which overlap each other, as if they are stacked. The pages are mostly white and feature minimalist design.](/Lifestyle-Blog-Showcase.jpg)
 
 [`PDF`](https://drive.proton.me/urls/H7G7HCQK24#cP4BgNZ5ts7e)
 
@@ -47,7 +47,7 @@ Coming soon!
 
 > **Notion Dashboard**
 
-![Minimalist Notion dashboard with light and dark theme](/Notion-Dashboard-Showcase.jpg)
+![A showcase of a minimalist Notion dashboard. A modern artwork of a person is in the center, beside a schedule, and the image is divided diagonally to show the light and dark variants.](/Notion-Dashboard-Showcase.jpg)
 
 <a href="/Notion-Dashboard.png">`PNG (Overview)`</a> | [Website](https://adhesive-estimate-297.notion.site/Index-e8ba1efe6efa45afa2d3411b135abaaf)
 
@@ -74,7 +74,7 @@ It features
     - [Notion](https://notion.so) - collaboration and project management (experienced).
     - A variety of [open source](https://opensourcedesign.net/resources/) resources from talented people across the web.
 
-![Illustration of a person sitting on a ball with a symbol above their head](/Academic-Research-Banner.png)
+![A wide illustrated banner which depicts a person sitting on a ball, reading a book. Various mathematical symbols float above their head.](/Academic-Research-Banner.png)
 
 ## Academic Research
 
