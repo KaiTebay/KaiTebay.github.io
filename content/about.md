@@ -21,7 +21,7 @@ Keys: <a href="/Kai-Tebay.asc">`PGP`</a> | <a href="/id_ed25519.pub">`SSH`</a> |
 
 Social media:
 - 💼 [LinkedIn](https://www.linkedin.com/in/kai-tebay-175240237)
-- 🗨️ [Mastodon](https://indieweb.social/web/@kaitebay)
+- 🗨️ <a rel="me" href="https://indieweb.social/@kaitebay">Mastodon</a>
 - 💻 [GitHub](https://github.com/KaiTebay)
 
 and find me on the [Privacy Guides](https://discuss.privacyguides.org/u/kai) forums.

@@ -85,7 +85,7 @@ params:
     - name: "Matrix"
       url: https://matrix.to/#/@kai_tebay:matrix.org
     - name: "Mastodon"
-      url: https://indieweb.social/web/@kaitebay
+      url: https://indieweb.social/@kaitebay
     - name: "LinkedIn"
       url: https://www.linkedin.com/in/kai-tebay-175240237
 
