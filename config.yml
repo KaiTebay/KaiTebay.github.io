@@ -64,13 +64,13 @@ params:
     imageWidth: 250 # optional
     imageHeight: 250 # optional
     imageTitle: "Kai Tebay" # optional
-    buttons:
-      - name: "About"
-        url: /about/
-      - name: "Contact"
-        url: /about/#contact
-      - name: "💚"
-        url: /about/#support
+    # buttons:
+      # - name: "About"
+        # url: /about/
+      # - name: "Contact"
+        # url: /about/#contact
+      # - name: "💚"
+        # url: /about/#support
       # - name: Tags
         # url: tags
 
