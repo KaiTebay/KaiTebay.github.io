@@ -4,11 +4,11 @@ date: 2022-10-11T17:45:42+01:00
 draft: false
 ---
 
-As Jonah and Henry discuss on their great [new episode](https://www.youtube.com/watch?v=E8Pzhpyf-Ow) of Techlore Talks, the "nirvana fallacy" can be detrimental to productive discussion and meaningful progress. Simply put, it's what's called an "informal fallacy"—or form of logical error—and might also be described as "all-or-nothing thinking": if something isn't perfect, then it's not valuable.
+The "nirvana fallacy" can be detrimental to productive discussion and meaningful progress. Simply put, it's what's called an "informal fallacy"—or form of logical error—and might also be described as "all-or-nothing thinking": if something isn't perfect, then it's not valuable.
 
 ### Who am I, why am I writing about errors, and should you listen to me?
 
-Hi, I'm Kai! I'm writing about this particular error because I was inspired by the Techlore Talks episode that I mentioned. Whether you listen to me is up to you, and whether you agree with me is another matter. It'd be nice if you listen to my thoughts (I have a degree in Philosophy), but I also encourage you to consult the references that I include!
+Hi, I'm Kai! Whether you listen to me is up to you, and whether you agree with me is another matter. It'd be nice if you listen to my thoughts (I have a degree in Philosophy), but I also encourage you to consult the references that I include!
 
 In this article, I'm going to explain the pitfalls of all-or-nothing thinking: the nirvana fallacy and why it's important; some of its consequences, like "gate-keeping"; and suggest a simple method of rectifying or avoiding it.
 
@@ -17,7 +17,7 @@ In this article, I'm going to explain the pitfalls of all-or-nothing thinking: t
 Simply because of how errors work, there are a few situations you might find yourself in, so let's identify what we're talking about:
 
 - Firstly, if you commit the Nirvana fallacy, it was either **intentional** or **unintentional**. 
-    - The idea of intentionally making an error might seem strange, but it might not be as weird as it seems: there are plenty of reasons to try and 'defend' what we already think. I recommend watching Jonah and Henry's discussion about [cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance).
+    - The idea of intentionally making an error might seem strange, but it might not be as weird as it seems: there are plenty of reasons to try and 'defend' what we already think.
 - Secondly, upon learning that you did commit the Nirvana fallacy, you either **care** or you **don't care**.
     - By whether you "care", I mean whether you are interested in rectifying it. For this article, I'm going to assume that you **care**, and therefore would either like to rectify errors you've made, or avoid them in the future.
 
@@ -77,7 +77,7 @@ This thinly-veiled analogy illustrates the "gate-keeping" that all-or-nothing th
 
 ### Privacy and Security
 
-For evaluative discussions about privacy and security, this can be detrimental to progress. In what follows, I'll include examples which are specific to discussions about digital privacy and security, but the same concepts apply. In some cases, like Henry's example, the nirvana fallacy occurs directly:
+For evaluative discussions about privacy and security, this can be detrimental to progress. In what follows, I'll include examples which are specific to discussions about digital privacy and security, but the same concepts apply. In some cases, the nirvana fallacy occurs directly:
 
 > Proton Mail is a bad email provider: they logged a customer's IP address[^2].
 
