@@ -9,22 +9,21 @@ Hi,
 
 I'm passionate about education, human rights, and technology. This is a website where you can find my ideas, projects, contact details, and digital presence.
 
-- 📑 [Articles](/posts)
+- 📰 [Articles](/posts)
 - 🏛️ [Research](/projects#academic-research)
-- 🌐 [Projects](/projects)
+- 📑 [Projects](/projects)
 
 # Contact
 
 Keys: <a href="/Kai-Tebay.asc">`PGP`</a> | <a href="/id_ed25519.pub">`SSH`</a> | <a href="/fingerprint">`(Fingerprint)`</a>
 
-- 📧 [Email](mailto:kaitebay@protonmail.com) is the best way to contact me directly.
+- 📧 [Email](mailto:kaitebay@protonmail.com)
+- 🗨️ [Matrix](https://matrix.to/#/@kai_tebay:matrix.org)
 
-Social media:
-- 💼 [LinkedIn](https://www.linkedin.com/in/kai-tebay-175240237)
-- 🗨️ <a rel="me" href="https://indieweb.social/@kaitebay">Mastodon</a>
+Digital Presence:
 - 💻 [GitHub](https://github.com/KaiTebay)
-
-and find me on the [Privacy Guides](https://discuss.privacyguides.org/u/kai) forums.
+- 💼 [LinkedIn](https://www.linkedin.com/in/kai-tebay-175240237)
+- 🌐 <a rel="me" href="https://indieweb.social/@kaitebay">Mastodon</a>
 
 # Support
 
@@ -32,17 +31,36 @@ If you've found any of my online contributions helpful, there are a few things I
 
 Donate your time:
 
-> **Seconds**: [🌍 CATF](https://smile.amazon.com/ch/04-3512550) | [💊 GiveWell](https://smile.amazon.com/ch/20-8625442) | [🐕 ACE](https://smile.amazon.com/ch/36-4684978) | [👤 EFF](https://smile.amazon.com/ch/04-3091431) ← Who are they? [^1]
+---
 
-- Whenever you buy from Amazon, use one of these links and Amazon will support one of my chosen charities. It's free (there's no extra cost), and I don't get a cut.
+> **Seconds**: 
 
-> **Minutes**: [80,000 Hours](https://80000hours.org/) | [NewsLit](https://newslit.org/) | [Moz://a](https://blog.mozilla.org/) | [Kurzgesagt (YouTube)](https://www.youtube.com/user/Kurzgesagt)
+- [🌍 CATF](https://smile.amazon.com/ch/04-3512550) 
+- [💊 GiveWell](https://smile.amazon.com/ch/20-8625442) 
+- [🐕 ACE](https://smile.amazon.com/ch/36-4684978) 
+- [👤 EFF](https://smile.amazon.com/ch/04-3091431) 
+    - ↑ Who are they? [^1]
 
-- Consider adding these to your daily scroll to stay informed and educate others. 
+Whenever you buy from Amazon, use one of these links and Amazon will support one of my chosen charities. It's free (there's no extra cost), and I don't get a cut.
 
-> **Hours**: [The Social Dilemma](https://www.thesocialdilemma.com/)
+---
 
-- If it's available to you, I recommend watching this.
+> **Minutes**: 
+
+- [80,000 Hours](https://80000hours.org/) 
+- [NewsLit](https://newslit.org/)
+- [Moz://a](https://blog.mozilla.org/) 
+- [Kurzgesagt (YouTube)](https://www.youtube.com/user/Kurzgesagt)
+
+Consider adding these to your daily scroll to stay informed and educate others. 
+
+---
+
+> **Hours**: 
+
+- [The Social Dilemma](https://www.thesocialdilemma.com/)
+
+If it's available to you, I recommend watching this.
 
 ---
 
