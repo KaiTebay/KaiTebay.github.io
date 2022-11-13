@@ -12,9 +12,9 @@ This page is a "living" list of my projects. You can use the table of contents t
 
 [Privacy Guides](https://privacyguides.org) is an open source project which provides up-to-date, evidence-based information that helps you [protect yourself online](https://www.privacyguides.org/#why-should-i-care).
 
-I'm a member of the [Privacy Guides team](https://www.privacyguides.org/about/#our-team).
+I was a member of the [Privacy Guides team](https://www.privacyguides.org/about/#our-team).
 
-Generally, I aim to
+Generally, I aimed to
 
 - review cutting-edge research, to maintain awareness of emerging technologies and best-practices;
 - review written content, to ensure the professional tone that Privacy Guides readers expect;
