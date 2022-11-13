@@ -4,7 +4,7 @@ date: 2022-10-03T00:04:26+01:00
 draft: false
 ---
 
-This page is a "living" list of my projects. You can use the table of contents to navigate to different projects. 
+This page is a "living" list. You can use the table of contents to navigate to different projects. 
 
 ![A wide illustrated banner which depicts a person standing in front of a floating page of text, next to a green lock symbol.](/Privacy-Guides-Banner.jpg)
 
