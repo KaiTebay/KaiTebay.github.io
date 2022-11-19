@@ -1,7 +1,7 @@
 ---
 title: "Smells Like Logical Error"
 date: 2022-10-11T17:45:42+01:00
-draft: false
+draft: true
 ---
 
 The "nirvana fallacy" can be detrimental to productive discussion and meaningful progress. Simply put, it's what's called an "informal fallacy"—or form of logical error—and might also be described as "all-or-nothing thinking": if something isn't perfect, then it's not valuable.

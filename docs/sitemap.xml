@@ -2,19 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kaitebay.github.io/</loc>
-    <lastmod>2022-10-11T17:45:42+01:00</lastmod>
-  </url><url>
-    <loc>https://kaitebay.github.io/posts/</loc>
-    <lastmod>2022-10-11T17:45:42+01:00</lastmod>
-  </url><url>
-    <loc>https://kaitebay.github.io/posts/smells-like-logical-error/</loc>
-    <lastmod>2022-10-11T17:45:42+01:00</lastmod>
-  </url><url>
     <loc>https://kaitebay.github.io/projects/</loc>
     <lastmod>2022-10-03T00:04:26+01:00</lastmod>
   </url><url>
     <loc>https://kaitebay.github.io/posts/kindle-without-account/</loc>
+    <lastmod>2022-10-02T23:31:28+01:00</lastmod>
+  </url><url>
+    <loc>https://kaitebay.github.io/</loc>
+    <lastmod>2022-10-02T23:31:28+01:00</lastmod>
+  </url><url>
+    <loc>https://kaitebay.github.io/posts/</loc>
     <lastmod>2022-10-02T23:31:28+01:00</lastmod>
   </url><url>
     <loc>https://kaitebay.github.io/about/</loc>
